@@ -4,8 +4,8 @@
 
 - `Data Science & LLM Assessment.ipynb` — Jupyter notebook with code, results, and explanations
 - `requirements.txt` — Dependencies list
-- `final_report.md` — One-page summary (see below)
-- `Assignment_Data.csv` — Data file (if allowed to share)
+- `final_report.md` — One-page summary 
+- `Assignment_Data.csv` — Data file
 
 ## How to run
 
