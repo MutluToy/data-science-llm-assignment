@@ -23,4 +23,4 @@ See `final_report.md` for results and next steps.
 
 ## Author
 
-[Your Name] — [your.email@domain.com]
+Mutlu Toy — mutlutoy@gmail.com
